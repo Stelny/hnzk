@@ -1,3 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="13.503" height="23.616" viewBox="0 0 13.503 23.616">
-  <path id="Icon_ionic-ios-arrow-forward" data-name="Icon ionic-ios-arrow-forward" d="M20.679,18,11.742,9.07a1.681,1.681,0,0,1,0-2.384,1.7,1.7,0,0,1,2.391,0L24.258,16.8a1.685,1.685,0,0,1,.049,2.327L14.14,29.32a1.688,1.688,0,0,1-2.391-2.384Z" transform="translate(-11.246 -6.196)"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="Group_8894" data-name="Group 8894" transform="translate(0.308 -0.086)">
+    <g id="Ellipse_10" data-name="Ellipse 10" transform="translate(-0.308 0.086)" fill="none" stroke="#fff" stroke-width="1">
+      <circle cx="14" cy="14" r="14" stroke="none"/>
+      <circle cx="14" cy="14" r="13.5" fill="none"/>
+    </g>
+    <path id="Path_4893" data-name="Path 4893" d="M216.836,6757.411,208.325,6766" transform="translate(-198.72 -6747.728)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+    <path id="Path_4894" data-name="Path 4894" d="M222.62,6761.362v-4.356h-4.331" transform="translate(-204.379 -6747.498)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+  </g>
 </svg>
